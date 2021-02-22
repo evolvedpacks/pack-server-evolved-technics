@@ -1,12 +1,5 @@
-2.2.0+176
+2.3.0+178
 
-• update mod Build Craft
-• update mod Energy Control
-• update mod Integration Foregoing
+• update mod Logistics Pipes
 
-• update config Agri Craft
-• update config Build Craft
-• update config iChun Util
-• update config Integration Foregoing
-• update config Just Enough Items
-• update config Wireless Redstone
+• revert mod Energy Control from 0.1.9 to 0.1.8
