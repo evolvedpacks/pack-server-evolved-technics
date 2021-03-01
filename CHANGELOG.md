@@ -1,3 +1,5 @@
-2.4.0+180
+2.5.0+182
 
-• update mod Ore Stone Variants
+• update mod Logistics Pipes
+
+• update config Ore Stone Variants
