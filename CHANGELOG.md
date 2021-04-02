@@ -1,3 +1,3 @@
-2.8.0+190
+2.9.0+192
 
-• update mod Mystical Lib
+• update mod Lazy Applied Energistics 2
