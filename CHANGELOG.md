@@ -1,3 +1,3 @@
-2.9.0+192
+2.10.0+194
 
-• update mod Lazy Applied Energistics 2
+• update mod JAOPCA
