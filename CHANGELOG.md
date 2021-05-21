@@ -1,3 +1,10 @@
-2.11.0+196
+2.12.0+196
 
-• update mod JAOPCA
+• add mod Floralis
+
+• add config Floralis
+
+• update mod Agri Craft
+• update mod Infinity Lib
+
+• update config Agri Craft
