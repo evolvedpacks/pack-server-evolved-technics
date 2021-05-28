@@ -1,10 +1,7 @@
-2.12.0+196
+2.13.0+198
 
-• add mod Floralis
+• update mod Energy Control
+• update mod Floralis
+• update mod Foam Fix
 
-• add config Floralis
-
-• update mod Agri Craft
-• update mod Infinity Lib
-
-• update config Agri Craft
+• update config Foam Fix
