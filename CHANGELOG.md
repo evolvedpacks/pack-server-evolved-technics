@@ -1,5 +1,3 @@
-2.16.0+204
+2.17.0+206
 
 • update mod Floralis
-• update mod Hammer Core
-• update mod Thermal Logistics
