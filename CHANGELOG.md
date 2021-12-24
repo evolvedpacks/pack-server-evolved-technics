@@ -1,6 +1,11 @@
-2.20.0+214
+2.21.0+216
 
-• update mod Aroma Backup S3
-• update mod Lib Nine
+• add mod HWYLA
 
-• update config Aroma Backup S3
+• add config HWYLA
+
+• update dependency Forge
+
+• update mod Floralis
+
+• fix #1
