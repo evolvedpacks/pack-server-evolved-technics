@@ -1,11 +1,10 @@
-2.21.0+216
+2.22.0+218
 
-• add mod HWYLA
-
-• add config HWYLA
-
-• update dependency Forge
+• add mod Energy Meters
+• add mod Reconstructor
+• add mod Super Sound Muffler: Revived
 
 • update mod Floralis
 
-• fix #1
+• add config Reconstructor
+• add config Super Sound Muffler: Revived
